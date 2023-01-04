@@ -2,7 +2,7 @@
 
 ## Installation
 
-* Clone repository: `git@github.com:lionffl/bbkm-api.git`
+* Clone repository: `git clone git@github.com:lionffl/bbkm-api.git`
 * Install the required dependencies: `bundle install`
 * Set up environment variables by renaming `envs.rb.example` to `envs.rb`
 * Run postgresql container: `docker-compose up`
