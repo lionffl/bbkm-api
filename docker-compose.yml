@@ -10,4 +10,4 @@ services:
     volumes:
       - /var/run/postgresql:/var/run/postgresql
     environment:
-      POSTGRES_PASSWORD: mysecrepassword
+      POSTGRES_PASSWORD: <%= ENV.fetch("db_password") %>
