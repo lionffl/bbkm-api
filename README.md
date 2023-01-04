@@ -1,5 +1,10 @@
 # README
 
+## Pre req
+
+* Ruby 3.2.0
+* Rails 7.0.4
+
 ## Installation
 
 * Clone repository: `git clone git@github.com:lionffl/bbkm-api.git`
