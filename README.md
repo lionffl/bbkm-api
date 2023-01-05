@@ -4,6 +4,7 @@
 
 * Ruby 3.2.0
 * Rails 7.0.4
+* Postgres
 * Docker
 * Docker-compose
 
